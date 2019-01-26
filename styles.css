@@ -1,0 +1,16 @@
+.input-style {
+    width: 500px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.input-position {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+button:focus, input:focus {
+    outline: 0;
+  }
