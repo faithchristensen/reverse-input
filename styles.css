@@ -4,6 +4,11 @@
     font-size: 20px;
 }
 
+.return-text {
+    font-size: 20px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
 .input-position {
     display: flex;
     justify-content: center;
